@@ -1,8 +1,6 @@
 # HHA504_assignment_nosql_dbs
 Working with Managed No-SQL Database
 
-## Objective
-The objective of this assignment is to introduce you to managed database services in Azure and Google Cloud Platform (GCP). You will learn how to start, stop, and monitor database-related services, including BigQuery and MySQL.
 
 ## Fake dataset to use: 
 
@@ -70,6 +68,9 @@ PatientID,Name,Age,Gender,DiagnosisCode,VisitDate,Hospital,TreatmentPlan,FollowU
         # Insert the data into the MongoDB collection
         collection.insert_many(data)
         ```
+mongodb+srv://amenhussain:<db_password>@amen-test.zjdgm.mongodb.net/
+<img width="1393" alt="image" src="https://github.com/user-attachments/assets/3bdabd6e-3ec5-4a2a-9044-1d066eb5b5eb">
+
 
 - **Redis Cloud:**
   - Go to [Redis Cloud](https://redis.io/cloud/) and sign up for a free tier account using your Stony Brook email.
