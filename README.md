@@ -30,11 +30,8 @@ PatientID,Name,Age,Gender,DiagnosisCode,VisitDate,Hospital,TreatmentPlan,FollowU
 ## Instructions
 
 ### 1. Start and Configure Databases
-- **Google BigQuery (GCP):**
-  - Navigate to BigQuery in the Google Cloud Console.
-  - Use your student account project to create a new dataset in BigQuery.
-  - Upload the provided healthcare dataset (CSV) into a table within your dataset.
-  - Note the connection details and the query editor interface.
+<img width="1421" alt="image" src="https://github.com/user-attachments/assets/44f4241c-4c05-468d-9025-4d8c5345ce1a">
+
 
 - **MongoDB Atlas (Cloud):**
   - Go to [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) and register for the free tier using your Stony Brook email.
